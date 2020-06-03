@@ -13,7 +13,6 @@
           <td>윤빛나라</td>
           <td>윤빛나라</td>
           <td>윤빛나라</td>
-        </tr>
       </tbody>
 </table>
 
