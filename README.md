@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
         </tr>
         <tr>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
-          <td>윤빛나라</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
+          <td>김동건</td>
       </tbody>
 </table>
 
