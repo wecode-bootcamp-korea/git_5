@@ -2,19 +2,18 @@
       <tbody>
 
         <tr>
-          <td>김정현</td>
-          <td>김정현</td>
-          <td>김정현</td>
-          <td>김정현</td>
-          <td>김정현<//td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
         </tr>
         <tr>
-          <td>김정현<</td>
-          <td>김정현</</td>
-          <td>김정현<//td>
-          <td>김정현</</td>
-          <td>김정현</td> 
-        </tr>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
+          <td>윤빛나라</td>
       </tbody>
 </table>
 
