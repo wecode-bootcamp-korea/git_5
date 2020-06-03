@@ -12,7 +12,7 @@
           <td>김정현</</td>
           <td>김정현<//td>
           <td>김정현</</td>
-          <td>김정현</td> 	
+          <td>김정현</td> 
         </tr>
       </tbody>
 </table>
