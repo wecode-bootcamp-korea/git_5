@@ -13,6 +13,7 @@
           <td>김동건</td>
           <td>김동건</td>
           <td>김동건</td>
+        </tr>
       </tbody>
 </table>
 
