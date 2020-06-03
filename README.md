@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>준수</td>
-          <td>준수</td>
-          <td>준수</td>
-          <td>준수</td>
-          <td>준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
         </tr>
         <tr>
-          <td>준수</td>
-          <td>준수</td>
-          <td>준수</td>
-          <td>준수</td>
-          <td>준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
+          <td>한준수</td>
         </tr>
       </tbody>
 </table>
