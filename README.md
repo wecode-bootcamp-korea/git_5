@@ -1,8 +1,7 @@
 <table>
       <tbody>
-
         <tr>
-          <td>i김동건</td>
+          <td>김동건</td>
           <td>김동건</td>
           <td>김동건</td>
           <td>김동건</td>
