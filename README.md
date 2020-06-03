@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>김동건</td>
+          <td>박상영</td>
+          <td>윤빛나라</td>
+          <td>한준수</td>
+          <td>김정현</td>
         </tr>
         <tr>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
-          <td>이름</td>
+          <td>김동건</td>
+          <td>박상영</td>
+          <td>윤빛나라</td>
+          <td>한준수</td>
+          <td>김정현</td>
         </tr>
       </tbody>
 </table>
