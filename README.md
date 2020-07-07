@@ -2,7 +2,7 @@
       <tbody>
 
         <tr>
-          <td>정나온</td>
+          <td>양희연</td>
           <td>박준모</td>
           <td>박준모</td>
           <td>박준모</td>
@@ -12,8 +12,8 @@
           <td>김동건</td>
           <td>김동건</td>
           <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
+          <td>양희연</td>
+          <td>양희연</td>
         </tr>
       </tbody>
 </table>
