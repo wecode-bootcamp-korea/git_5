@@ -2,11 +2,11 @@
       <tbody>
 
         <tr>
-          <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
+          <td>박준모</td>
+          <td>박준모</td>
+          <td>박준모</td>
+          <td>박준모</td>
+          <td>박준모</td>
         </tr>
         <tr>
           <td>김동건</td>
