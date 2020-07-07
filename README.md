@@ -3,17 +3,17 @@
 
         <tr>
           <td>정나온</td>
-          <td>박준모</td>
-          <td>박준모</td>
-          <td>박준모</td>
-          <td>박준모</td>
+          <td>정나온</td>
+          <td>정나온</td>
+          <td>정나온</td>
+          <td>정나온</td>
         </tr>
         <tr>
-          <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
-          <td>김동건</td>
+          <td>정나온</td>
+          <td>정나온</td>
+          <td>정나온</td>
+          <td>정나온</td>
+          <td>정나온</td>
         </tr>
       </tbody>
 </table>
