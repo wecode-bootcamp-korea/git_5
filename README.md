@@ -6,14 +6,15 @@
           <td>정나온</td>
           <td>정나온</td>
           <td>정나온</td>
-          <td>정나온</td>
+          <td>박준모</td>
+          <td>박준모</td>
         </tr>
         <tr>
           <td>정나온</td>
           <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
-          <td>정나온</td>
+          <td>박준모</td>
+          <td>박준모</td>
+          <td>박준모</td>
         </tr>
       </tbody>
 </table>
